@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">分享功能测试</string>
+    <string name="share_title_format">【%1$s】%2$s（分享自#精彩电竞#）</string>
+    <string name="weibosdk_toast_share_success">分享成功</string>
+    <string name="weibosdk_toast_share_failed">分享失败</string>
+    <string name="weibosdk_toast_share_canceled">取消分享</string>
+    <string name="app_uninstall">应用未安装</string>
+    <string name="share_content_hint">请输入分享内容</string>
+    <string name="share_type_tips">请选择分享应用</string>
+
+</resources>
